@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+go get "github.com/dcorbe/termui-dpc"
+go build gofm.go
